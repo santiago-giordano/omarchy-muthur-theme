@@ -1,0 +1,35 @@
+# MUTHUR — MU/TH/UR 6000
+# Estética de la computadora del Nostromo (Alien / Prometheus).
+# Fósforo verde sobre negro de tubo, con ámbar de advertencia y rojo de alerta.
+
+mode = "dark"
+
+accent = "#2BE86B"
+selection = "#0E3D28"
+muted = "#4A7A62"
+
+background = "#010A07"
+dark_background = "#010705"
+darker_background = "#000402"
+lighter_background = "#0C2119"
+
+foreground = "#63F2A0"
+dark_foreground = "#3E9469"
+light_foreground = "#8FFFC0"
+bright_foreground = "#C2FFE0"
+
+red = "#FF3B30"
+yellow = "#FFB000"
+orange = "#FF7A18"
+green = "#2BE86B"
+cyan = "#2BE0C8"
+blue = "#3A9AD9"
+magenta = "#C86BD9"
+brown = "#8A6A3A"
+
+bright_red = "#FF6B5E"
+bright_yellow = "#FFD04D"
+bright_green = "#5BFF9B"
+bright_cyan = "#5BF0DC"
+bright_blue = "#6BB8E8"
+bright_magenta = "#DE95E8"
